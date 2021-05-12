@@ -22,7 +22,7 @@
   "homepage": "https://github.com/micahjon/micahjon.github.io#readme",
   "devDependencies": {
     "@11ty/eleventy-plugin-syntaxhighlight": "^3.0.4",
-    "postcss": "^8.1.8",
+    "postcss": "^8.2.10",
     "postcss-cli": "^8.2.0",
     "postcss-comment": "^2.0.0",
     "precss": "^4.0.0"
